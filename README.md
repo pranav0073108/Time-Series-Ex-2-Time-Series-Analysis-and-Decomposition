@@ -7,6 +7,7 @@ We will use simple sample temperature data for 12 months and decompose it into:
 
 Observed = Trend + Seasonal + Residual
 
+
 # PROGRAM:
 ```
 import pandas as pd
